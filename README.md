@@ -1,3 +1,3 @@
 # Analise-de-Dados
-Datasets e Análises de Dados
-Arquivos e aplicações a serem adicionados eventualmnte.
+Datasets e Análises de Dados.
+Aplicações a arquivos serem adicionados eventualmnte.
